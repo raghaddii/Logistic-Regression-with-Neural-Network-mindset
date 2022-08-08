@@ -1,7 +1,4 @@
 # Logistic-Regression-with-Neural-Network-mindset
-Building the general architecture of a learning algorithm.
-
-## Logistic Regression with a Neural Network mindset:
 building a logistic regression classifier to recognize cats (meow!)
 
 ######Build the general architecture of a learning algorithm, including:
